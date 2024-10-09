@@ -1,12 +1,12 @@
-#Web Scraping with Selenium and undetected-chromedriver
+# Web Scraping with Selenium and undetected-chromedriver
 
-##Overview
+## Overview
 
 This project demonstrates how to scrape web data (such as titles and author names) from PubMed or similar sites using Selenium and undetected-chromedriver. The script collects article titles and author names, navigating through multiple pages, and saves the extracted data into a CSV file.
 
 By using undetected-chromedriver, the script bypasses anti-bot mechanisms that might prevent scraping through traditional methods.
 
-##Features
+## Features
 
 Automated browser interaction using Selenium
 Bypasses website bot detection with undetected-chromedriver
@@ -14,7 +14,7 @@ Bypasses website bot detection with undetected-chromedriver
 * Stores the scraped data in a CSV file for later use
 * Supports pagination for scraping across multiple pages
 
-##Requirements
+## Requirements
 
 Make sure you have the following before running the project:
 
@@ -23,7 +23,7 @@ Make sure you have the following before running the project:
 * ChromeDriver (The driver to control the Chrome browser)
 * Required Python libraries listed in requirements.txt
 
-##Setting Up ChromeDriver
+## Setting Up ChromeDriver
 
 * Download ChromeDriver from [here][https://developer.chrome.com/docs/chromedriver/downloads]. Choose the version that matches your installed Chrome browser version.
 * Once downloaded, either:
