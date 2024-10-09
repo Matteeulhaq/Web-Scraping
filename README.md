@@ -10,7 +10,7 @@ By using undetected-chromedriver, the script bypasses anti-bot mechanisms that m
 
 Automated browser interaction using Selenium
 Bypasses website bot detection with undetected-chromedriver
-* Scrapes article titles and authors from PubMed
+* Scrapes article titles and authors from PubMed and Academia
 * Stores the scraped data in a CSV file for later use
 * Supports pagination for scraping across multiple pages
 
